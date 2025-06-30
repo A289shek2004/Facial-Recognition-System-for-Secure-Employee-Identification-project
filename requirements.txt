@@ -1,6 +1,7 @@
-streamlit
+streamlit==1.25.0
 numpy
 pandas
-tensorflow==2.11.0
 joblib
 Pillow
+tensorflow==2.11.0
+scikit-learn
